@@ -1,0 +1,42 @@
+{
+  "name": "ulysses",
+  "version": "0.0.8",
+  "description": "Superbook Ulysses by James Joyce",
+  "keywords": [
+    "superbook",
+    "bookiza"
+  ],
+  "author": "jamesjoyce marvindanig+guten+james+joyce@gmail.com (https://bubblin.io/jamesjoyce)",
+  "license": "ISC",
+  "homepage": "https://bubblin.io/jamesjoyce",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marvindanig/ulysses"
+  },
+  "scripts": {
+    "postinstall": "node ./crust/scripts/ready.js"
+  },
+  "dependencies": {
+    "babel-preset-env": "1.7.0",
+    "book-length": "1.2.0",
+    "browser-sync": "2.26.7",
+    "chalk": "2.4.2",
+    "del": "5.1.0",
+    "delayed": "2.0.0",
+    "fs-extra": "8.1.0",
+    "gulp": "4.0.2",
+    "gulp-babel": "8.0.0",
+    "gulp-compile-handlebars": "0.6.1",
+    "gulp-concat": "2.6.1",
+    "gulp-haml": "1.0.1",
+    "gulp-if": "3.0.0",
+    "gulp-less": "4.0.1",
+    "gulp-markdown": "5.0.0",
+    "gulp-postcss": "8.0.0",
+    "gulp-sass": "4.0.2",
+    "gulp-stylus": "2.7.0",
+    "js-cookie": "2.2.1",
+    "path": "0.12.7",
+    "shelljs": "0.8.3"
+  }
+}
