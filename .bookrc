@@ -9,7 +9,7 @@
     "HEAD": "html"
   },
   "cover": {
-    "punchline": "Exact 8:00 AM, Thursday June 16, 1904.",
+    "punchline": "8:00 AM, Thursday June 16, 1904.",
     "toc": "",
     "author_detail": "",
     "colophon": "",
@@ -17,5 +17,6 @@
   },
   "status": "published",
   "asset_url": "https://raw.githubusercontent.com/marvindanig/ulysses/master/assets",
-  "book_id": 375
+  "book_id": 1192,
+  "book_url": "https://bubblin.io/book/ulysses-by-james-joyce-jamesjoyce"
 }
